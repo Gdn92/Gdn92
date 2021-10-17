@@ -1,7 +1,7 @@
 ### Don't waste time on me i'm bad at coding ok 💻
 
 #### 🍵 | Who?
-- Also known as gdn/kei0  🍵 [Aka as having wayyyyy too many aliases]
+- Also known as gdn/kei0  🍵 [+ wayyyyy more aliases]
 - Student 
 - Web-app dev [Flutter, GDScript, very little C#, React in the future], gamedev [Unity, Godot, GMS2] hobbyist 
 - Gamer 

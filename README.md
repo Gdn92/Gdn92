@@ -17,7 +17,7 @@
 - suru. [Focus-themed PWA based in Flutter, supports other test features, isn't public atm] 
 - 3colu. [More specialised focus PWA, contains some new features different from suru ^ , also isn't public atm] 
 
-#### Thanks, i guess? 
+#### Thanks, I guess? 
 [dont waste your precious times here for now, go do something else ;>] 🍵 🥛
 
 <!--

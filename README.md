@@ -3,7 +3,7 @@
 #### 🍵 | Who?
 - Also known as gdn/kei0  🍵 [Aka as having wayyyyy too many aliases]
 - Student 
-- Web-app dev [Flutter, C#, GDScript, React in the future], gamedev [Unity, Godot, GMS2] hobbyist 
+- Web-app dev [Flutter, GDScript, very little C#, React in the future], gamedev [Unity, Godot, GMS2] hobbyist 
 - Gamer 
 - Occasional emulator tester? [CemU, Dolphin performance etc] 
 

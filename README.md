@@ -1,23 +1,23 @@
-### Don't waste time on me i'm bad at coding ok
+### Don't waste time on me i'm bad at coding ok 💻
 
-#### Who?
+#### 🍵 Who?
 - Also known as gdn/kei0  🍵 [I have wayyyyy too many aliases]
 - Student 
 - Web-app dev [Flutter, C#, GDScript, React in the future], gamedev [Unity, Godot, GMS2] hobbyist 
 - Gamer 
 - Occasional emulator tester? [CemU, Dolphin performance etc] 
 
-#### Why?
+#### ❔ Why?
 - Why not? 
 - [Suffering is fun]
 
-#### Current projects 
+#### ⛷ Current projects 
 - GD_G1 [Game made in Godot, work-in-progress]
 - UN_Minimalist [Minimalist shooting style game made in Unity - put on hold ⚠️] 
 - suru. [Focus-themed PWA based in Flutter, supports other test features, isn't public atm] 
 - 3colu. [More specialised focus PWA, contains some new features different from suru ^ , also isn't public atm] 
 
-#### Thanks, I guess? 
+#### ❄️ Thanks, I guess? 
 [dont waste your precious times here for now, go do something else ;>] 🍵 🥛
 
 <!--

@@ -11,8 +11,9 @@
 - Why not? [Suffering is fun]
 
 #### ⛷ | Current projects 
-- GD_G1 [Game made in Godot, work-in-progress]
-- GD_G2 [ANOTHER game made in Godot, also work-in-progress]
+- GD_G1 [2d platformer game made in Godot, work-in-progress]
+- GD_G2 [ANOTHER 2d game made in Godot but c o m b a t, also work-in-progress]
+- GD_G3 [ANOTHER game made in Godot but 3d because why not, also work-in-progress]
 - UN_Minimalist [Minimalist shooting style game made in Unity - put on hold ⚠️] 
 - suru. [Focus-themed PWA based in Flutter, supports other test features, isn't public atm] 
 - 3colu. [More specialised focus PWA, contains some new features different from suru ^ , also isn't public atm] 

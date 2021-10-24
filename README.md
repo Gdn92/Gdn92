@@ -21,9 +21,10 @@
 #### ❄️ | Thanks, I guess? 
 [dont waste your precious times here for now, go do something else ;>] 🍵 🥛
 
+![](https://komarev.com/ghpvc/?username=gdn92)
+
 <!--
 **Gdn92/Gdn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

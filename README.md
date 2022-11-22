@@ -1,5 +1,11 @@
 ### Don't waste time on me i'm bad at coding ok 💻
 
+![](https://img.shields.io/badge/Noob-Coder-%23ff5f00)
+![](https://img.shields.io/badge/Learning-Hacking-green)
+![](https://img.shields.io/badge/Making-YouTube%20Videos-%23c4302b)
+![](https://img.shields.io/badge/Doing-CTF%20Challenges-blue)
+![](https://img.shields.io/badge/%E2%AD%90-If%20you%20find%20it%20%F0%9F%95%B6%EF%B8%8F%20-%23FFFF00)
+
 #### 🍵 | Who?
 - Also known as gdn/kei0 + wayyyyy more aliases [most commonly seen with 🍵]
 - Student 
@@ -22,17 +28,3 @@
 [dont waste your precious times here for now, go do something else ;>] 🍵 🥛
 
 ![](https://komarev.com/ghpvc/?username=gdn92)
-
-<!--
-**Gdn92/Gdn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
